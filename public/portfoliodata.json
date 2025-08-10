@@ -69,6 +69,14 @@
   "javascript": [
     {
       "id": "javascript",
+      "name": "Drag and Drop",
+      "image": "https://ik.imagekit.io/e1tn49sqt/Projects%20Images/drag%20and%20drop?updatedAt=1754827599256",
+      "link": "https://drag-and-drop-web-app.netlify.app",
+      "code": "https://github.com/SAICHAITANYAK2003/drag-and-drop",
+      "skills": ["React JS", "Javascript", "Tailwind CSS", "CSS", "HTML"]
+    },
+    {
+      "id": "javascript",
       "name": "Web App Store",
       "image": "https://ik.imagekit.io/e1tn49sqt/Projects%20Images/app%20store.png",
       "link": "https://webappshub.netlify.app",
