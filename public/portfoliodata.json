@@ -3,6 +3,14 @@
   "react": [
     {
       "id": "react",
+      "name": "Flo Homes",
+      "link": "https://flohomes.webinfloo.com",
+      "code": "https://github.com/SAICHAITANYAK2003/FloHomes",
+      "skills": ["React JS", "Tailwind CSS", "HTML", "API"],
+      "image": "https://ik.imagekit.io/e1tn49sqt/Projects%20Images/FloHomeslogo.png"
+    },
+    {
+      "id": "react",
       "name": "Else Ai",
       "link": "https://elseai.webinfloo.com",
       "code": "https://github.com/SAICHAITANYAK2003/Elseai-gemini-clone",
