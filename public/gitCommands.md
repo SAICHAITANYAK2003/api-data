@@ -98,7 +98,6 @@ To merge branch use :
 
 - commit message is required or <span style="color:red;">you will enter into separate code editor to commit the message</span>
 
-
 To delete the branch
 
 `git branch -d day2`
