@@ -96,7 +96,8 @@ To merge branch use :
 
 - If you want to merge footer into master, you need to be on master first(but in conflicts it will me some what different).
 
-- commit message is required or <span style="color:red;">you will enter into separate code editor to commit the message</span>
+<p style="color:red;">Commit message is required or you will enter into separate code editor to commit the message</p>
+
 
 To delete the branch
 
