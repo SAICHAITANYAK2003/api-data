@@ -1,5 +1,7 @@
 {
-  "fullstack": [],
+  "fullstack": [
+    
+  ],
   "react": [
     {
       "id": "react",
@@ -20,9 +22,9 @@
     {
       "id": "react",
       "name": "Jobby App",
-      "link": "https://elseai.webinfloo.com",
+      "link": "https://jobbyappcs.ccbp.tech",
       "image": "https://ik.imagekit.io/e1tn49sqt/Projects%20Images/jobby%20App.png?updatedAt=1754645166974",
-      "code": "https://github.com/SAICHAITANYAK2003/Elseai-gemini-clone",
+      "code": "https://github.com/SAICHAITANYAK2003/Job-Clone",
       "skills": ["React JS", "CSS", "HTML", "API"]
     },
     {
