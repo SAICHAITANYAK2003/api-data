@@ -48,17 +48,17 @@ To check where our username and user email stored
 
 used this command:
 
-(make sure to use this command you should come to Users/saichaitanya) -
+(make sure to use this command you need to be at Users/saichaitanya) -
 
 `cat .gitconfig`
 
 ## Git Branches :
 
-Default you will get into th master branch:
+Default you will get into the master branch:
 
 `git branch`
 
-And more thing lets say if you of team member is working on the navbar or anything if he want pushed the code to with another branch then we use
+And one more thing lets say if your team member is working on the navbar or anything if he want pushed the code to with another branch then we use
 
 `git branch nav-bar`
 
@@ -96,7 +96,8 @@ To merge branch use :
 
 - If you want to merge footer into master, you need to be on master first(but in conflicts it will me some what different).
 
-- commit message is required or you will enter into separate code editor to commit the message
+- commit message is required or <span style="color:red;">you will enter into separate code editor to commit the message</span>
+
 
 To delete the branch
 
